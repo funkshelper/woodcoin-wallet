@@ -1,6 +1,6 @@
 Forked by Woodcoin Dev. Team ..  Feb. 2015
 
-Welcome to _Woodoin Wallet_, a standalone Litecoin payment app for your Android device!
+Welcome to _Woodoin Wallet_, a standalone Woodcoin [LOG] [木币】 payment app for your Android device!
 
 This project contains several sub-projects:
 
